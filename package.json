@@ -1,0 +1,21 @@
+{
+  "name": "lazy-result",
+  "version": "0.1.0",
+  "description": "lazy evaluation using [Results](//github.com/jkroso/result)",
+  "dependencies": {
+    "inherit": "nathan7/inherit",
+    "next-tick": "timoxley/next-tick",
+    "result-core": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkroso/lazy-result.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkroso/lazy-result/issues"
+  },
+  "keywords": ["lazy", "result", "promise", "future"],
+  "author": "Jake Rosoman",
+  "license": "MIT"
+}

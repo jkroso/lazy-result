@@ -1,0 +1,27 @@
+{
+  "name": "lazy-result",
+  "repo": "jkroso/lazy-result",
+  "description": "lazy evaluation using [Results](//github.com/jkroso/result)",
+  "version": "0.1.0",
+  "keywords": [
+    "lazy",
+    "result",
+    "promise",
+    "future"
+  ],
+  "dependencies": {
+    "jkroso/result-core": "1.0.0",
+    "component/inherit": "0.0.2",
+    "timoxley/next-tick": "0.0.2"
+  },
+  "development": {
+    "visionmedia/mocha": "1.11.0",
+    "jkroso/serve": "1.4.1",
+    "chaijs/chai": "1.7.0",
+    "chaijs/chai-spies": "0.5.1"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
